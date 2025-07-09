@@ -1,4 +1,4 @@
-## Hi there 👋 你好！认识你很高兴。
+## Hi there 👋 <!--你好！认识你很高兴。-->
 
 - Which technologies do you think will shape the future?
 
